@@ -5,6 +5,6 @@ Black-Litterman Model: The Black-Litterman model combines market information wit
 Portfolio Optimization: The portfolio is optimized with ESG constraints.
 How to Use:
 
-    Train the LSTM model on historical price data to generate views.
-    Run the script to optimize the portfolio based on the Black-Litterman model and ESG constraints.
-    Analyze results in the generated DataFrames (results_weights_df and results_rets_df).
+1. Train the LSTM model on historical price data to generate views.
+2. Run the script to optimize the portfolio based on the Black-Litterman model and ESG constraints.
+3. Analyze results in the generated DataFrames (results_weights_df and results_rets_df).
